@@ -1,7 +1,7 @@
 # Hi 👋, I'm Julian  
-💻 CSE Student (KTU) | 🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast  
+💻 CSE Student (Mar Athanasius College of Engineering) | 🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+%26+ML+Learner;React+Developer;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+%26+ML+Learner;Always+Learning+New+Things)
 
 ---
 
@@ -31,8 +31,8 @@
 ---
 
 ## 🌐 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](yourlink)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](yourlink)  
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/julian.jiju?igsh=d24ydm9rbzMzYzU2)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julian-jiju-7029393b9/)   
 
 ---
 
