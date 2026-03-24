@@ -1,7 +1,7 @@
 # Hi 👋, I'm Julian  
 💻 CSE Student (Mar Athanasius College Of Engineering) | 🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+%26+ML+Learner;React+Developer;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+%26+ML+Learner;Always+Learning+New+Things)
 
 ---
 
