@@ -25,8 +25,7 @@
 
 ## 🚀 Projects  
 - 🏛️ Church EDMS (Electronic Document Management System)  
-- 🚗 Driver Drowsiness Detection System (Sleep Detection App)  
-- 🌐 Web Development Projects  
+- 🚗 Driver Drowsiness Detection System (Sleep Detection App) 
 
 ---
 
