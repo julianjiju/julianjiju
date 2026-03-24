@@ -1,7 +1,7 @@
 # Hi 👋, I'm Julian  
-💻 CSE Student (Mar Athanasius College Of Engineering) | 🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast  
+💻 CSE Student (KTU) | 🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+%26+ML+Learner;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+%26+ML+Learner;React+Developer;Always+Learning+New+Things)
 
 ---
 
@@ -26,12 +26,13 @@
 ## 🚀 Projects  
 - 🏛️ Church EDMS (Electronic Document Management System)  
 - 🚗 Driver Drowsiness Detection System (Sleep Detection App)  
-   
+- 🌐 Web Development Projects  
 
 ---
 
 ## 🌐 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](julian.jiju) 
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](yourlink)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](yourlink)  
 
 ---
 
